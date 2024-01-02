@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mMAfmsVyeHk92yAYRjCExKFry08",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e6Z7PWbDByI16yji5xVmmcZR6l8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4NwPiSRXRU8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T21:08:36Z",
+        "channelId": "UCRdi6NcOy-ryNGYfAXKwCIg",
+        "title": "Jojo Roper Huge Mavericks Tow Surf in Slowmo 12.28.2023 - Mavericks Awards",
+        "description": "http://www.MavericksAwards.com Surfer Jojo Roper towed into a monster wave with the help of ski driver Jamie Mitchell. Filmed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NwPiSRXRU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NwPiSRXRU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NwPiSRXRU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mavericks Surf Awards",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T21:08:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g7fuNOyZsX8HzzGPOoYtxlv0WFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yzuGQJu4HG8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T03:13:35Z",
+        "channelId": "UCYUbNjkuE4lsr2v1Id2O1oA",
+        "title": "Visitors from all over the world flock to Mavericks as surfers brave massive waves",
+        "description": "\"It's pretty gnarly, it's super big.\" People from all over the world flocked to Mavericks on Thursday as surfers braved the massive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yzuGQJu4HG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yzuGQJu4HG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yzuGQJu4HG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC7 News Bay Area",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T03:13:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqHPZlT-Zd9CFWsOkzc1pEeiIXw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fILyVIYIFwk"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-28T19:34:44Z",
+        "channelId": "UCRdi6NcOy-ryNGYfAXKwCIg",
+        "title": "Andrew Cotton Tow Surfing Huge Mavericks 12.268.2023 - Mavericks Awards",
+        "description": "http://www.MavericksAwards.com British surfer Andrew Cotton made the trip to Mavericks for a monster tow session in Half Moon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fILyVIYIFwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fILyVIYIFwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fILyVIYIFwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mavericks Surf Awards",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-28T19:34:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "poxWGVosLqKRFZmqqJ3p7rWI7JY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HtA9AiydgnE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T17:00:11Z",
+        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
+        "title": "Surfing Honolua Bay (4K Raw)",
+        "description": "Filmed on December 28, 2023 at Honolua Bay on Maui. Swell was filling in throughout the day. The day started off a little slow but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtA9AiydgnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtA9AiydgnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtA9AiydgnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Hawaii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T17:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NApOA8EzcK1pYZUCqtchIG2nTjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ma67yOdMQfs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-23T17:00:15Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-23T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7cB3deE78EqrES3MiB5HSALhBYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I4Qkq2IVDUM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T02:29:41Z",
+        "channelId": "UCwPzlQU2MqEQJWgqM_0VFKQ",
+        "title": "One of California&#39;s best surf spots hides nears Pebble Beach&#39;s 18th hole",
+        "description": "One of California's best surf spots hides nears Pebble Beach's 18th hole Subscribe to KSBW on YouTube now for more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I4Qkq2IVDUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I4Qkq2IVDUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4Qkq2IVDUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KSBW Action News 8",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T02:29:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4TTz9faJgSpXjSGq4Wea3cPCQ_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x21jQm1tz0w"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-30T02:00:13Z",
+        "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+        "title": "Rogue wave and high surf pound California",
+        "description": "(30 Dec 2023) Crews raced to build sand berms against high surf a day after a rogue wave injured eight during a powerful Pacific ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x21jQm1tz0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x21jQm1tz0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x21jQm1tz0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Associated Press",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-30T02:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GYMOvKCtVPLxs-89NMiHfW1igfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1c-4NxXvH-g"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T07:20:57Z",
+        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
+        "title": "Pro Surfer Goes Down Hard! #pipeline  #surfing",
+        "description": "Pro surfer Joao Chianca from Brazil wipes out at Backdoor while surfing in Hawaii. Glad to report he is in stable condition.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Hawaii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-04T07:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zrnluPhz-j68bOMEpfYzCpfgyV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GgSAYZAVDFM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-30T02:58:59Z",
+        "channelId": "UCinjnmQEwCddOudyCC1v7qA",
+        "title": "Dangerous high surf threatening Orange County beaches",
+        "description": "Massive waves lashing the Southern California coastline have prompted beach and pier closures on Friday. While much of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgSAYZAVDFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgSAYZAVDFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgSAYZAVDFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KTLA 5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-30T02:58:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lKZ56J_T0xKIW0xpoWqm6obtMa4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dWlGbyOgQQs"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T06:51:24Z",
+        "channelId": "UCVhtkN7-c8mA8GXEoxS4YQw",
+        "title": "Surfers in Half Moon Bay take advantage of the high surf after storm",
+        "description": "Dozens of people showed up at Frances Beach in Half Moon Bay to witness the huge waves. There was some debris on the shore ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dWlGbyOgQQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dWlGbyOgQQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dWlGbyOgQQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KTVU FOX 2 San Francisco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T06:51:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e4SHt_7qodUwctPCt3VZvPHl870",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QB8GMebrFXg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T18:00:11Z",
+        "channelId": "UCJBWZDkunrjWh50Etxdys2g",
+        "title": "Big wave surfers in Southern California #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoCal Surfer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "znY8QAOgEmmwgABqm3rjRle5dBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b7Pl5Rr8ZYk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T19:14:10Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "The BEST of Surfing in 2022",
+        "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T19:14:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H0K9OIiLLhqjwCHRQlLgRXnxedg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vWt1udFGhxo"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T01:30:24Z",
+        "channelId": "UCHfF8wFnipMeDpJf8OmMxDg",
+        "title": "High surf pounds California coast",
+        "description": "From Ventura County to the Bay Area, high surf caused major flooding and damage to areas along the California coast. Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vWt1udFGhxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vWt1udFGhxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vWt1udFGhxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FOX 11 Los Angeles",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T01:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I9yNgysMYO5HYjRsCMnTaWldUso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8ekZohffDV8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T15:00:08Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "PIPELINE GOES PSYCHO YESTERDAY CRAZY WIPEOUTS &amp; HUGE BARRELS",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ekZohffDV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ekZohffDV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ekZohffDV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-04T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q7nzhTA_8kSNdpjwn9-7B3S5c4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qRQy_Lpcpfw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-28T07:03:16Z",
+        "channelId": "UCRdi6NcOy-ryNGYfAXKwCIg",
+        "title": "Jojo Roper Surfing Christmas Swell in 4K SLOMO - Mavericks Awards",
+        "description": "http://www.MavericksAwards.com Jojo Roper made it up to Mavericks to enjoy a late Christmas gift. Filmed 12.26.2023 by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qRQy_Lpcpfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qRQy_Lpcpfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qRQy_Lpcpfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mavericks Surf Awards",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-28T07:03:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SENNnSVU6JGFfG6gEQfu8YpAJJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ALRoebu0Rgs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T08:02:51Z",
+        "channelId": "UCgrzEQkzzbWl6Sx_8DD1jiQ",
+        "title": "What happened when I fall #surf #surfing #athlete #waves #surfers #skate #wsl #fit",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jake Abel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T08:02:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0NZEacT9nTzWlwzL2H1IJq2_-rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K3aMejSxJaM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-28T20:00:07Z",
+        "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
+        "title": "We Found Jamie Obrien&#39;s Secret Wave in Hawaii",
+        "description": "Hawaii has been a hoot! Pretty much a full week of super fun surf & sharing good times with Will. It's been awesome watching Will ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K3aMejSxJaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K3aMejSxJaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K3aMejSxJaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Gravy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-28T20:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tmqp2JihIu2NyDNLkc9283IvX2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Smgql_DESn8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T10:59:56Z",
+        "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+        "title": "Stray Kids &quot;Surfin&#39; (리노, 창빈, 필릭스)(Surfin&#39; (Lee Know, Changbin, Felix))&quot; Video",
+        "description": "Stray Kids(스트레이 키즈) \"Surfin' (리노, 창빈, 필릭스)(Surfin' (Lee Know, Changbin, Felix))\" Video Stray Kids THE 2ND ALBUM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stray Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T10:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UzMWC-9q8-vHIY1DodaKTEqq3NM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zZqxPozl2Ec"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T07:00:09Z",
+        "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
+        "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
+        "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T07:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AWch-xbYiEYYW97Tf4ZEFgim6eA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a2NxgF2aSDw"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T07:30:02Z",
+        "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
+        "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
+        "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NobodySurf : Surfing Videos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T07:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HtdFBLvWBJFeSIliY9f1rQlfQgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IDB0U-eqJ8s"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T18:00:07Z",
+        "channelId": "UCm9NnEJTi7_B86QWgQiUCJA",
+        "title": "An AMAZING surf session! #shorts",
+        "description": "In this awe-inspiring YouTube video, we explore the amazing and rare experience of surfing and how it can positively impact ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Koa Smith",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IDGCS7sx20kTMMR3CndjR4KiXYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qteiXA9hXiA"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-28T20:21:15Z",
+        "channelId": "UCQv44qD9R5Ae6Z3iUeZm7iQ",
+        "title": "High surf warning in effect across San Diego beaches until Monday",
+        "description": "From 8 a.m. Thursday through 2 a.m. Monday, a high surf advisory will be in effect across San Diego beaches. At Ocean Beach ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qteiXA9hXiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qteiXA9hXiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qteiXA9hXiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC 10 News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-28T20:21:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5syWbuz2ray2oOWGA4RTdmdaRTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtHZKToMvus"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-02T17:46:49Z",
+        "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
+        "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
+        "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billabong",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-02T17:46:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qjF5RvAfOT_-kwwLxT6BJ6yXnnc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5qsHU88dwuI"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-21T03:00:06Z",
+        "channelId": "UCc-oOp182_mo5TicquwUVoA",
+        "title": "Surfing with his son on his back!❤️😲",
+        "description": "shorts Surfing with his child on his back!❤️   (clip via; billykemper on instagram) - : To submit your own content, please reach ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wiry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-21T03:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X1pSoHWdRFmgPApBF8Yk88giJOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QYT7TxN_ldM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T20:37:10Z",
+        "channelId": "UCMscWako8oDvpdF4pppku-g",
+        "title": "High surf warning in effect, massive waves expected in San Diego this weekend",
+        "description": "A high-surf and a coastal flood advisory will be in effect Friday through Monday at San Diego County beaches, with large breaking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QYT7TxN_ldM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QYT7TxN_ldM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QYT7TxN_ldM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS 8 San Diego",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T20:37:10Z"
+      }
+    }
+  ]
+}
